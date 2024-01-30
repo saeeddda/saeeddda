@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Saeed Noori</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
-- 🔭 I’m currently working on [Avandev website](https://avandev.ir)
+- 🔭 I’m currently working on [Nova dev website](https://novadev.ir)
 
 - 🌱 I’m currently learning **Laravel, Flutter, Dart and Python**
 
-- 👯 I’m looking to collaborate on [Avandev website](https://avandev.ir)
+- 👯 I’m looking to collaborate on [Nova dev website](https://novadev.ir)
 
 - 👨‍💻 All of my projects are available at [https://saeedna.ir/portfolios](https://saeedna.ir/portfolios)
 
 - 📝 I regularly write articles on [https://saeedna.ir/articles](https://saeedna.ir/articles)
 
-- 💬 Ask me about **laravel and flutter**
+- 💬 Ask me about **php, c#, Asp.Net Core, laravel and flutter**
 
-- 📫 How to reach me **iam@saeedna.ir**
+- 📫 How to reach me **iam@saeedna.ir or noori.saeed1375@gmail.com**
 
 - 📄 Know about my experiences [https://saeedna.ir](https://saeedna.ir)
 
