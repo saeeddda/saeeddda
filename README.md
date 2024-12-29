@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Iran</h3>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saeedna.ir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saeedna) [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fsaeedna_ir
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saeedna.ir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saeedna) [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fsaeedna_ir
 )](https://t.me/saeedna_ir) 
 
 # 💻 Tech Stack:
